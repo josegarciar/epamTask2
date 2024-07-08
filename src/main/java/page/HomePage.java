@@ -40,7 +40,6 @@ public class HomePage extends page.BaseClassPage {
 
     public void openPage() {
         openPage(homePageUrl);
-
     }
 
     public void enterPasteCode(String code) {
